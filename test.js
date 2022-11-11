@@ -1,3 +1,3 @@
-console.log('test');
-test;
-ttttteeeeeeeessssssssttttttt;
+이제;
+되면;
+안될까;
